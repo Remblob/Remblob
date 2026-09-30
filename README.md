@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi there! I'm Remy
+
+Former Computer Science student that fell in love with data science through learning more and more about statistics. 
+
+Through statistics, I have learned more and more about people and the world in a way I haven't before. I've just made this big change, so I'm not all too experienced with the actual data science courses, but you bet I am very excited about all of it! I'm always searching for people to work with and gain more experience, so I hope I get to know whoever is reading this!
 
 <!--
 **Remblob/Remblob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
